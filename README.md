@@ -1,20 +1,23 @@
-# 파이썬 스터디!!
+# 3/4 ~ 3/9 주간 문제
+### 트리 1문제
+  - 문제를 잘 읽어보시면, 완전 이진 트리의 전위 탐색을 하라는 뜻인 걸 알 수 있어요.
+### 진수 1문제
+  - 말 그대로 이진수 덧셈입니다. 이진수를 십진수로 변환해서 덧셈 후 다시 변환하는게 좀 익숙하려나요?
+  - 혹은 문제에 적힌 설명처럼 이진수의 특성을 활용해서 덧셈할 수도 있겠네요. 
 
-## ✨ 개인 Repository로 가져오기
-- 우측 상단 `Fork` 버튼 누르기
-- 개인 계정에 스터디 공용 레파지토리 가져오는 역할을 합니다.
+<center>
 
-## 💻 크롬 확장 프로그램 설치하기
-- [설치 링크](https://chromewebstore.google.com/detail/ccammcjdkpgjmcpijpahlehmapgmphmk?utm_source=item-share-cb)
-- 설치가 완료되면, `Link an Existing Repository` 옵션을 선택한 후 본인 레파지토리 이름을 넣고 `Get Started` 버튼을 누릅니다.
-- 이제 백준, 프로그래머스, SWEA 등 문제를 풀고 나서 성공하면 자동으로 제출한 코드가 자신의 깃허브 레파지토리에 커밋됩니다!
+|문제|링크|설명|
+|:---:|:---:|:---:|
+|BOJ 9934. 완전 이진 트리|https://www.acmicpc.net/problem/9934|트리|
+|BOJ 2729. 이진수 덧셈|https://www.acmicpc.net/problem/2729|진법 계산|
 
-## ⏫ Pull Requests (PR) 하기
-- 개인 레파지토리에 올라간 문제를 저희 공용 레파지토리에 합쳐야 해요.
-- 각자 계정의 스터디 레파지토리에서 Pull Requests 탭으로 들어갑니다.
-- `New pull request` 버튼을 누르면 오늘 푼 문제와 코드가 대기 중으로 뜰 겁니다.
-- `Create pull request` 버튼을 눌러서 PR 제목과 내용을 작성해주세요.
-### ✔️ 규칙
-- PR 제목: 이름 / 날짜 / 주간 혹은 개인 문제
-- 예시: `이상민 / 3월 5일 / 개인문제`
-- PR 내용(Write): 자유롭게, 어떤 문제를 무슨 알고리즘을 썼는지 간단히 서술
+</center>
+<br>
+<br>
+<br>
+<center>
+
+# [깃허브 사용법 바로가기](GUIDE.md)
+
+</center>
