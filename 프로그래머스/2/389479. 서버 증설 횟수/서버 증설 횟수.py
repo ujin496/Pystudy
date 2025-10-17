@@ -8,12 +8,14 @@ def solution(players, m, k):
         if players[time] // m > list[time]:
             add = players[time]//m - list[time]
             answer += add
-            if time+k < len(players):
-                for i in range(time, time+k):
+            # if time+k < len(players):
+            #     for i in range(time, time+k):
+            #         list[i] += add
+            # else:
+            #      for i in range(time, len(players)):
+            #             list[i] += add
+            for i in range(time, min(len(players),time+k)):
                     list[i] += add
-            else:
-                 for i in range(time, len(players)):
-                        list[i] += add
                 
     print(list)
     return answer
